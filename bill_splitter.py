@@ -1,3 +1,6 @@
+#Name: Gacamumakuba David
+#reg: 221010521
+#IT department
 import random
 num_friends = int(input("Enter the number of friends joining (including you):\n"))
 friend_dit = {}
